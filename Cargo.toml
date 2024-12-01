@@ -1,0 +1,8 @@
+[package]
+name = "aoc_rust_2024"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+aoc-main = { version = "0.5.0", features = ["bench"] }
+aoc-parse = "0.2.17"
